@@ -8,7 +8,7 @@
 HTML-файлы лежат в папке data
 Все риды были хорошего качество, поэтому подрезать их не потребовалось 
 ENCFF894KBP |	ENCFF010SAE |	ENCFF994FIB
-___ | ___ | ___
+--- | --- | ---
 ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF894KBP_scores.png) | ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF010SAE_scores.png) | ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF994FIB_scores.png) 
 ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF894KBP_quality.png) | ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF010SAE_quality.png) | ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF994FIB_quality.png) 
 
