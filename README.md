@@ -5,8 +5,8 @@
 Для данного домашнего задания мной был выбран эксперимент Encode с клеточной линией K562 и гистоновой меткой H3K4me3.
 
 ### Анализ FastQC 
-HTML-файлы лежат в папке data
-Все риды были хорошего качество, поэтому подрезать их не потребовалось 
+HTML-файлы лежат в папке data. 
+Все риды были хорошего качество, поэтому подрезать их не потребовалось.
 ENCFF894KBP |	ENCFF010SAE |	ENCFF994FIB
 --- | --- | ---
 ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF894KBP_scores.png) | ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF010SAE_scores.png) | ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/ENCFF994FIB_scores.png) 
