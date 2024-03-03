@@ -33,5 +33,5 @@ ENCFF994FIB | 10438657 | 390293 | 3.74% | 1335446 | 12.79% | 8712918 | 83.47%
 
 ENCFF407UPO (ENCFF539EAR) | ENCFF572OAS (ENCFF689TMV) 
 --- | --- 
-![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/result1.png) | 
+![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/result1.png) |
 ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/result2.png) 
