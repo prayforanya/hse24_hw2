@@ -1,6 +1,6 @@
 # hse24_hw2
 
-[Ссылка на Colab]()
+[Ссылка на Colab](https://colab.research.google.com/drive/1TdSjbkZEIb2puwf945OS-L0f3lG1KNvS?usp=sharing)
 
 Для данного домашнего задания мной был выбран эксперимент Encode с клеточной линией K562 и гистоновой меткой H3K4me3.
 
@@ -31,6 +31,6 @@ ENCFF994FIB | 10438657 | 390293 | 3.74% | 1335446 | 12.79% | 8712918 | 83.47%
 ### Бонусная часть 
 Полученные ngsplot, согласуются с результатами в статье. 
 
-- | -
+- | - 
 ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/result1.png) | 
 ![image](https://github.com/prayforanya/hse24_hw2/blob/main/data/result2.png) 
